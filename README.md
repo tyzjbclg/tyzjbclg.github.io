@@ -1,7 +1,7 @@
 # Junhao Zhu
 ## 📫 Contact
 * **Email:** 51285902219@stu.ecnu.edu.cn
-* **GitHub:** [https://github.com/tyzjbclg](https://github.com/tyzjbclg）
+* **GitHub:** https://github.com/tyzjbclg](https://github.com/tyzjbclg）
 
 Welcome to my personal homepage! I am an active researcher and developer.
 
