@@ -6,7 +6,7 @@
 Welcome to my personal homepage! I am an active researcher and developer.
 
 ## 🎓 Education & Current Position
-* **Current Position:** Master Student
+* **Current Position:** PhD student
 * **Institution:** East China Normal University Software Engineering Institute
 * **Timeline:** Sept. 2025 - Present
 
